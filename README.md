@@ -1,6 +1,6 @@
 # Abyski
 
-## a turnt take on abyss & monokai 🦄
+## a turnt take on abyss + monokai 🦄
 
 <img src="https://i.imgur.com/MfXP1JC.png">
 
