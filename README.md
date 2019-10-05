@@ -4,9 +4,11 @@
 
 <img src="https://i.imgur.com/MfXP1JC.png">
 
-*compliments my linux repo manager [Reapo 🗃 ](https://github.com/jsmithdev/reapo)*
-
 *[Github repo here](https://github.com/jsmithdev/abyski)*
+
+*[VS Code Marketplace here](https://marketplace.visualstudio.com/items?itemName=jamiesmiths.abyski)*
+
+*compliments my linux repo manager [Reapo 🗃 ](https://github.com/jsmithdev/reapo)*
 
 ## What's in the repo
 
