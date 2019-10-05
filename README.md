@@ -1,10 +1,12 @@
 # Abyski
 
-## a turnt up abyss & monokai hybrid theme 🦄
-
-also compliments my repo manager [Reapo 🗃 ](https://github.com/jsmithdev/reapo) 
+## a turnt take on abyss & monokai 🦄
 
 <img src="https://i.imgur.com/MfXP1JC.png">
+
+*compliments my linux repo manager [Reapo 🗃 ](https://github.com/jsmithdev/reapo)*
+
+*[Github repo here](https://github.com/jsmithdev/abyski)*
 
 ## What's in the repo
 
@@ -25,3 +27,7 @@ This has debug setup to easily customize:
 * The token colorization is done based on standard TextMate themes. Colors are matched against one or more scopes.
 
 To learn more about scopes and how they're used, check out the [color theme](https://code.visualstudio.com/api/extension-guides/color-theme) documentation.
+
+---
+
+Made with 💙 by [Jamie Smith](https://jsmith.dev)
