@@ -2,7 +2,7 @@
 
 ## a turnt take on abyss + monokai 🦄
 
-<img src="https://i.imgur.com/MfXP1JC.png">
+<img src="https://i.imgur.com/gupqNrJ.png">
 
 *[Github repo here](https://github.com/jsmithdev/abyski)*
 
