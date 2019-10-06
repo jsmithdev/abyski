@@ -466,7 +466,7 @@
 				"variable.readwrite.other.block"
 			],
 			"settings": {
-				"foreground": "#23b1f3"
+				"foreground": "#FFF"
 			}
 		},
 		{
@@ -577,7 +577,7 @@
 				"support.variable"
 			],
 			"settings": {
-				"foreground": "#23b1f3"
+				"foreground": "#e2f0f7"
 			}
 		},
 		{
