@@ -354,7 +354,7 @@
 			"name": "Number",
 			"scope": "constant.numeric",
 			"settings": {
-				"foreground": "#c678dd"
+				"foreground": "#ec00ff"
 			}
 		},
 		{
@@ -366,7 +366,16 @@
 				"punctuation.section.embedded"
 			],
 			"settings": {
-				"foreground": "#c678dd"
+				"foreground": "#ec00ff"
+			}
+		},
+		{
+			"name": "Reset JavaScript string interpolation expression",
+			"scope": [
+				"meta.template.expression"
+			],
+			"settings": {
+				"foreground": "#F8F8F2"
 			}
 		},
 		{
@@ -481,9 +490,28 @@
 			}
 		},
 		{
+			"name": "variable global",
+			"scope": [
+				"variable.global",
+			],
+			"settings": {
+				"foreground": "#fd505e"
+			}
+		},
+		{
+			"name": "Other variable global",
+			"scope": [
+				"variable.other.global",
+			],
+			"settings": {
+				"foreground": "#fd505e"
+			}
+		},
+		{
 			"name": "Inherited Class",
 			"scope": "entity.other.inherited-class",
 			"settings": {
+				"fontStyle": "italic",
 				"foreground": "#68e46e"
 			}
 		},
@@ -516,7 +544,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#d19a66"
+				"foreground": "#FD971F"
 			}
 		},
 		{
@@ -567,17 +595,43 @@
 			"name": "Library constant",
 			"scope": "support.constant",
 			"settings": {
+				"foreground": "#fd505e"
+			}
+		},
+		
+		{
+			"name": "Library variable",
+			"scope": [
+				"support.variable"
+			],
+			"settings": {
 				"foreground": "#23b1f3"
 			}
 		},
 		{
 			"name": "Library class/type",
+			"scope": "support.type",
+			"settings": {
+				"fontStyle": "italic",
+				"foreground": "#66D9EF"
+			}//support.class
+		},
+		{
+			"name": "Library module",
 			"scope": [
-				"support.type",
-				"support.variable"
+				"support.module",
 			],
 			"settings": {
-				"foreground": "#e2f0f7"
+				"foreground": "#fd505e"
+			}
+		},
+		{
+			"name": "Library function",
+			"scope": [
+				"support.function"
+			],
+			"settings": {
+				"foreground": "#68e46e"
 			}
 		},
 		{
@@ -811,7 +865,7 @@
 			"name": "Markup: Separator",
 			"scope": "meta.separator.markdown",
 			"settings": {
-				"foreground": "#c678dd",
+				"foreground": "#ec00ff",
 				"fontStyle": "bold"
 			}
 		},
