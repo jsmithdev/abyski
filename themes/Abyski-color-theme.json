@@ -458,15 +458,15 @@
 			"name": "Variable Object",
 			"scope": [
 				"variable.other.object",
-				"variable.other.constant",
-				"variable.other.global",
+				//"variable.other.constant",
+				//"variable.other.global",
 				"variable.other.readwrite.class",
 				"variable.other.readwrite.instance",
 				"variable.readwrite",
 				"variable.readwrite.other.block"
 			],
 			"settings": {
-				"foreground": "#FFF"
+				"foreground": "#23b1f3"
 			}
 		},
 		{
